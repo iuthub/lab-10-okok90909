@@ -1,4 +1,5 @@
-@extends('layouts.master')
+@extends('layouts.admin')
+
 @section('content')
     @include('partials.errors')
     <div class="row">
